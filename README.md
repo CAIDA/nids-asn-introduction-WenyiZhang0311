@@ -18,7 +18,7 @@ Start by reading **Introduction** to get the background needed to understand the
   - Details intructions to access nrp: [How to access NRP](https://www.caida.org/projects/nids/how-to/access-nrp/)
   - complete each task by replacing the `# YOUR CODE HERE` sections
   - answer all six questions
-- step 5 download your working notebookw and replace ⬅ deliverable
+- step 5 download your finished notebook ⬅ deliverable
 - step 6 commit and push to github
 
 ### Directory Structure
